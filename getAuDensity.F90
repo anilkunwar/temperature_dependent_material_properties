@@ -1,4 +1,5 @@
     !-----------------------------------------------------
+    ! Written By: Anil Kunwar (Original 2015-03-13) (Modification 2021-11-16)
     ! material property user defined function for ELMER:
     ! Density of titanium fitted as a function of temperature
     ! (kth_ti)solid = A*T^2 + B*T + C, where A = 0 kg/m3K2 and B = -1.20 kg/m3K and C = 19657.6 kg/m3 (adapted from Au18Zn alloy)
@@ -6,7 +7,6 @@
     ! https://link.springer.com/article/10.1007%2FBF03214811
     ! https://asmedigitalcollection.asme.org/heattransfer/article/130/6/062401/466820/An-Interfacial-Tracking-Method-for-Ultrashort
     ! https://link.springer.com/content/pdf/10.1007/BF03216580.pdf
-    ! Written By: Anil Kunwar (Original 2015-03-13) (Modification 2021-11-16)
     ! (kth_ti)liquid = D*T + E, where D = -1.44 kg/m3K  and E = 19325.28 kg/m3
     ! Paradis  et al. Gold Bulletin (2008), Vol. 41:242-245
     ! https://link.springer.com/article/10.1007%2FBF03214876
