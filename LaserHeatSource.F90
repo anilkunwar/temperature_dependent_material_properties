@@ -1,4 +1,5 @@
 !Flat top for travelling source
+! Written by Anil Kunwar
 FUNCTION FlatTopHeatSource( Model, n, t ) RESULT(f)
   USE DefUtils
 
