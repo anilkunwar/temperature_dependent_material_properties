@@ -1,3 +1,5 @@
+#In addition to the material properties of Au and Ti, this repository consists of the code for describing the heat input from laser medium.
+
 # The  heat input from laser to the surface 
 1. The heat flux from flat top heat source is imported in the finite element model through the user defined function  (filename: LaserHeatSource.F90)
 
