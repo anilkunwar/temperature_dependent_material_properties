@@ -17,4 +17,4 @@
 
 # HOW TO CITE THIS WORK:
 Oktawian Bialas, Augustine N.S. Appiah, Marta Wala, Anil Kunwar, Anna Woźniak, Paweł M. Nuckowski, Wojciech Simka, Peter Råback, Marcin Adamiak,"Laser assisted fabrication of mechanochemically robust Ti3Au intermetallic at Au-Ti interface", Engineering Science and Technology, an International Journal,
-Volume 42,2023, 101413. https://doi.org/10.1016/j.jestch.2023.101413
+Volume 42, 2023, 101413. https://doi.org/10.1016/j.jestch.2023.101413
