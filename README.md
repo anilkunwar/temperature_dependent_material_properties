@@ -15,4 +15,4 @@
 # elmerf90 compiler must convert the .F90 file to .so file for enabling the calling of the user defined functions by the solver input file (sif) of ElmerSolver.
 
 
-##########HOW TO CITE THIS WORK:############################################################################
+#HOW TO CITE THIS WORK:############################################################################
