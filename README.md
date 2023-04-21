@@ -1,4 +1,4 @@
-###########################DESCRIPTION#####################################################################
+######DESCRIPTION#####################################################################
 # In addition to the material properties of Au and Ti, this repository consists of the code for describing the heat input from laser medium. The nature of heat flux is the main reason for the temperature fluctuation in the computational domain, thereby requiring the use of T-dependent material properties in the numerical model.
 
 # The  heat input from laser to the surface 
@@ -14,5 +14,5 @@
 # The .dat files can be directly called from the solver input file of Elmer.
 # elmerf90 compiler must convert the .F90 file to .so file for enabling the calling of the user defined functions by the solver input file (sif) of ElmerSolver.
 
-###########################################################################################################
+
 ##########HOW TO CITE THIS WORK:############################################################################
