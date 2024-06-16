@@ -2,10 +2,10 @@
     ! Written By: Anil Kunwar (Original 2015-03-13) (Modification 2021-11-19)
     ! material property user defined function for ELMER:
     ! Thermal conductivity of titanium fitted as a function of temperature
-    ! (kth_ti)solid = A*T^2+B*T + C, where A = 0, B= -6.93088808e-02 W /m and B = 3.38918567e+02 W/mK
+    ! (kth_au)solid = A*T^2+B*T + C, where A = 0, B= -6.93088808e-02 W /m and B = 3.38918567e+02 W/mK
     ! Cook et al, Canadian Journal of Physics , 1970 (48), pp. 254-263
     ! https://cdnsciencepub.com/doi/10.1139/p70-035
-    ! (kth_ti)liquid = D*T + E, where D = 0.027397 W/m K^2 and E = 100.0 W/m K
+    ! (kth_au)liquid = D*T + E, where D = 0.027397 W/m K^2 and E = 100.0 W/m K
     ! Petrov et al (2015), PIERS proceedings
     ! http://laser.itp.ac.ru/publications/4A2_2431.pdf
     !-----------------------------------------------------
